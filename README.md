@@ -12,17 +12,30 @@ Create an account at the [WeChat sand box](https://mp.weixin.qq.com/debug/cgi-bi
 
 ## Screenshots
 
+### Overview
+Overview of your account. It used the Dialogflow intents and response to capture the instruction from user.
+<p align="left">
+  <img src="images/Screenshot_overview.png" width="256">
+</p>
 
-![Product Name Screen Shot][product-overview  | width=100]
+### Blotter
+Your trade execution blotter. The bot will send you alert messege when there is update in the blotter.
+<p align="left">
+  <img src="images/Screenshot_blotter.png" width="256">
+</p>
 
+### Action Buttons
+The bot functionalities can be accessed from the action buttons at the bottom of the screen.
+<p align="left">
+  <img src="images/Screenshot_action_button.png" width="256">
+</p>
 
-![Product Name Screen Shot][product-blotter | width=100]
+### Portfolio Details
+Portfolio details in asset allocation with a pie chart. It calculate the portfolio return and various risk parameters.
+<p align="left">
+  <img src="images/Screenshot_portfolio_detail.png" width="256">
+</p>
 
-
-![Product Name Screen Shot][product-action-button | width=100]
-
-
-![Product Name Screen Shot][product-portfolio-details | width=100]
 
 
 ## License
@@ -35,7 +48,3 @@ Create an account at the [WeChat sand box](https://mp.weixin.qq.com/debug/cgi-bi
 [license-url]: https://github.com/jhleong/Wealth-Wechat-bot/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/jhleong/
-[product-overview]: images/Screenshot_overview.png
-[product-blotter]: images/Screenshot_blotter.png
-[product-action-button]: images/Screenshot_action_button.png
-[product-portfolio-details]: images/Screenshot_portfolio_detail.png
