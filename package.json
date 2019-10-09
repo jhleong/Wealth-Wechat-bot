@@ -1,7 +1,7 @@
 {
-  "name": "wechat-chatbot",
+  "name": "Wealth-Wechat-bot",
   "version": "1.0.0",
-  "description": "Minimum requirement to receive message from WeChat",
+  "description": "Demo of a WeChat bot for wealth managmeent platform",
   "main": "index.js",
   "scripts": {
     "start": "node .",
@@ -10,18 +10,18 @@
   },
   "keywords": [
     "WeChat",
-    "Chatbot"
+    "Chatbot",
+    "Wealth management"
   ],
-  "author": "David Yu",
-  "license": "ISC",
+  "author": "JianHaur, Leong",
+  "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.16.3",
     "http": "0.0.0",
     "request": "^2.88.0",
     "uuid": "^3.3.2",
-    "wechat": "^2.1.0"
-  },
-  "devDependencies": {
+    "wechat": "^2.1.0",
+    "lodash": ">=4.17.13",
     "dotenv": "^6.0.0"
   }
 }
