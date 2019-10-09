@@ -3,26 +3,26 @@
 
 # WeChat bot for Wealth platform 
 
-Demo of a WeChat bot for wealth managmeent platform. It use the google [Dialogflow] (https://dialogflow.com/) as the natural language processing (NLP) engine.
+Demo of a WeChat bot for wealth managmeent platform. It use the google [Dialogflow](https://dialogflow.com/) as the natural language processing (NLP) engine.
 
 ## Setup
 
-Create an account at the [WeChat sand box] (https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login). The parameters appID, appsecret and Token provided in this page is going into the .env configuration file.
+Create an account at the [WeChat sand box](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login). The parameters appID, appsecret and Token provided in this page is going into the .env configuration file.
 
 
 ## Screenshots
 
 
-[![Product Name Screen Shot]][product-overview  | width=100]
+[product-overview  | width=100]
 
 
-[![Product Name Screen Shot]][product-blotter | width=100]
+[product-blotter | width=100]
 
 
-[![Product Name Screen Shot]][product-action-button | width=100]
+[product-action-button | width=100]
 
 
-[![Product Name Screen Shot]][product-portfolio-details | width=100]
+[product-portfolio-details | width=100]
 
 
 
