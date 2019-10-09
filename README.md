@@ -13,17 +13,16 @@ Create an account at the [WeChat sand box](https://mp.weixin.qq.com/debug/cgi-bi
 ## Screenshots
 
 
-[product-overview  | width=100]
+![Product Name Screen Shot][product-overview  | width=100]
 
 
-[product-blotter | width=100]
+![Product Name Screen Shot][product-blotter | width=100]
 
 
-[product-action-button | width=100]
+![Product Name Screen Shot][product-action-button | width=100]
 
 
-[product-portfolio-details | width=100]
-
+![Product Name Screen Shot][product-portfolio-details | width=100]
 
 
 ## License
